@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "159945013240",
+    "project_id": "multigenesys-software-test-emp",
+    "storage_bucket": "multigenesys-software-test-emp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159945013240:android:be616a783f356958d9080d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_developer_as_final_83612_sanket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159945013240-f27emq7pirqduulg8urkjoi6c4c894hg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_developer_as_final_83612_sanket",
+            "certificate_hash": "4a4ed1ec318249c3073f0e77c656e28533cad078"
+          }
+        },
+        {
+          "client_id": "159945013240-65of71fo39855jjs5br8v46oru1aff0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJbzrtMjw7RJpxXc4CsB6EgSrTlR0gjU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159945013240-65of71fo39855jjs5br8v46oru1aff0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
